@@ -1,6 +1,6 @@
 ---
 title: "software-developer?"
-date: 20201-10-03
+date: 2021-03-10
 ---
 
 
