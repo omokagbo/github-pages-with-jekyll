@@ -1,5 +1,7 @@
-title: software-developer?
-date: 20201-03-10
+---
+title: "software-developer?"
+date: 20201-10-03
+---
 
 
 
