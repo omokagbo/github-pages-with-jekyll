@@ -1,7 +1,6 @@
----
-title: "software-developer?"
+title: software-developer?
 date: 20201-03-10
----
+
 
 
 Hi, I am **omokagbo** :wink:, a software developer.
