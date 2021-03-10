@@ -1,3 +1,9 @@
+---
+title: "software-developer?"
+date: 20201-03-10
+---
+
+
 Hi, I am **omokagbo** :wink:, a software developer.
 My interests are in front end development and iOS development.
 I will be taking through a journey of how I got into software development and sharing some of the things I have learnt along the way.
